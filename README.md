@@ -1,6 +1,6 @@
 ## Moving floor animation - React Component
 
-![Moving floor](https://raw.githubusercontent.com/wufe/floor-animation/master/images/screenshot.png)
+![Moving floor](images/screenshot.png)
 
 ***
 
