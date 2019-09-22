@@ -2,6 +2,7 @@
   "name": "@wufe/floor-animation",
   "version": "1.0.0",
   "main": "dist/floor.min.js",
+  "repository": "https://github.com/wufe/floor-animation",
   "license": "MIT",
   "scripts": {
     "build": "webpack",
