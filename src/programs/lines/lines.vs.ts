@@ -1,6 +1,6 @@
 export const linesVSText = `
 {defines}
-precision mediump float;
+precision highp float;
 
 {properties}
 

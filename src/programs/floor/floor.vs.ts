@@ -1,6 +1,6 @@
 export const floorVSText = `
 {defines}
-precision mediump float;
+precision highp float;
 
 {properties}
 
